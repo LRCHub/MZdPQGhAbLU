@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Tell Me Baby (LIVE)",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2026-03-10T03:17:57.140107Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tell Me, Tell Me...Baby [Live]",
+      "artist": "NSYNC",
+      "has_synced": true,
+      "path": "select/01_Tell_Me,_Tell_Me...Baby_[Live]_NSYNC.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tell Me Baby - LIVE",
+      "artist": "OFFICIAL HIGE DANDISM",
+      "has_synced": true,
+      "path": "select/02_Tell_Me_Baby_-_LIVE_OFFICIAL_HIGE_DANDISM.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tell Me Baby (Live)",
+      "artist": "Ray Charles",
+      "has_synced": true,
+      "path": "select/03_Tell_Me_Baby_(Live)_Ray_Charles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tell Me Baby (Live)",
+      "artist": "OFFICIAL HIGE DANDISM",
+      "has_synced": true,
+      "path": "select/04_Tell_Me_Baby_(Live)_OFFICIAL_HIGE_DANDISM.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tell Me Baby - LIVE",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_Tell_Me_Baby_-_LIVE_Official髭男dism.txt"
+    }
+  ]
+}
